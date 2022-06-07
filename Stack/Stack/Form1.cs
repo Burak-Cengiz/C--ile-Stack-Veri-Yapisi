@@ -19,19 +19,7 @@ namespace Stack
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int x = 2;
-            if(x == 2 )
-            {
-                MessageBox.Show("anan");
-            }
-            if(x == 4)
-            {
-                MessageBox.Show("baban");
-            }
-            else
-            {
-                MessageBox.Show("gf");
-            }
+           
            
         }
     }
